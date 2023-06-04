@@ -51,7 +51,7 @@ git commit -m 'completed homework'
 git push origin main
 ```
 
-Pull requests are due next day following the [PR Submission Guidelines](https://github.com/FEWD-3-14/template_pull_request). If you aren't sure how to do this yet, just wait. We will cover it in class!
+Pull requests are due next day following the [PR Submission Guidelines](https://github.com/FEWD-6-12/template_pull_request). If you aren't sure how to do this yet, just wait. We will cover it in class!
 
 ## Resources
 * [Terminal Cheatsheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
