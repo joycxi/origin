@@ -14,4 +14,4 @@ cd millenium_falcon && touch han_solo.txt chewbacca.txt
 mv luke_skywalker
 # 7. Move the millenium_falcon into the death_star.
 mv ..\star_wars\rebellion\millenium_falcon\ ..\star_wars\empire\death_star\
-# finished, 
+# finished, finish ed again
