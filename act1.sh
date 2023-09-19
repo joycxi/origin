@@ -13,3 +13,4 @@ touch emperor_palpatine.txt
 mkdir death_star 
 # 7. Move darth_vader.txt into the death_star
 mv  darth_vader.txt dearth_star\
+#finished 

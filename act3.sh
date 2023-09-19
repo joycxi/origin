@@ -15,3 +15,4 @@ mv .\princess_leia.txt .\millenium_falcon\
 mv darth_vader.txt ..\
 # 6. Thanks to his practice back home at Beggar’s Canyon, Luke blew up the death_star! Remove it from the galaxy!
 rm .\death_star\
+# finished 
